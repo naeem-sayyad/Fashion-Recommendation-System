@@ -1,0 +1,1 @@
+This is a repositiory for my project on Fashion Recommendation System wherein the sole aim is to provide users a better suggestion for various clothing items and supposedly increase revenues for various  e-commerce websites. 
